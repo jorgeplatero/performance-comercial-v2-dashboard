@@ -1,0 +1,14 @@
+<svg width='150' height='170' viewBox='0 0 150 170' fill='none' xmlns='http://www.w3.org/2000/svg'>
+	<g id='podio'>
+		<rect id='foto' x='32' y='17' width='85' height='85' fill='#D9D9D9'/>
+		<text id='nome_vendedor' fill='white' xml:space='preserve' style='white-space: pre' font-family='Inter' font-size='14' font-weight='600' letter-spacing='0em'>
+			<tspan x='56' y='119.591'>Nome</tspan>
+		</text>
+		<text id='valor' fill='white' xml:space='preserve' style='white-space: pre' font-family='Inter' font-size='12' font-weight='600' letter-spacing='0em'>
+			<tspan x='41' y='140.864'>R$ 50,50 Mi</tspan>
+		</text>
+		<text id='porcentagem' fill='#19F053' xml:space='preserve' style='white-space: pre' font-family='Inter' font-size='12' font-weight='600' letter-spacing='0em'>
+			<tspan x='53' y='160.864'>+5,25% </tspan>
+		</text>
+	</g>
+</svg>

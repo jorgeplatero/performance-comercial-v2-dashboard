@@ -1,0 +1,11 @@
+<svg width="170" height="166" viewBox="0 0 170 166" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="cartao_rank_vendedores">
+<text id="valor_faturamento" fill="#59B7C8" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="15" y="47.5909">R$ 45,55 Mi</tspan></text>
+<text id="texto_faturamento_geral" fill="#F1F1F1" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="600" letter-spacing="0em"><tspan x="15" y="25.6364">Faturamento Geral</tspan></text>
+<text id="valor_faturamento_top_3" fill="#59B7C8" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="15" y="103.591">R$ 45,55 Mi</tspan></text>
+<text id="valor_faturamento_2" fill="#59B7C8" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="600" letter-spacing="0em"><tspan x="54" y="153.636">41% do Total</tspan></text>
+<text id="texto_faturamento_top_3" fill="#F1F1F1" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="600" letter-spacing="0em"><tspan x="15" y="81.6364">Faturamento | Top 3</tspan></text>
+<rect id="barra_total" x="15" y="121" width="140" height="15" rx="5" fill="#D9D9D9"/>
+<rect id="barra_parcial" x="15" y="121" width="61" height="15" rx="5" fill="#351CC2"/>
+</g>
+</svg>
