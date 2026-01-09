@@ -15,7 +15,7 @@ Clone o repositório ou baixe o arquivo `.pbix`:
 git clone https://github.com/jorgeplatero/dashboard-performance-comercial.git
 ```
 
-Abra o arquivo `.pbix` no Power BI Desktop. Caso os dados não carreguem automaticamente, verifique o caminho das fontes de dados no Power Query e execute uma atualização para popular o modelo de dados.
+Abra o arquivo `.pbix` no Power BI Desktop. Certifique-se de ajustar as conexões de dados para apontar para o diretório de dados deste repositório e carregue os dados para processar o script e popular o modelo de dados.
 
 ### Tecnologias
 
